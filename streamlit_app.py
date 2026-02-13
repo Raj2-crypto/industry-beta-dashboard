@@ -460,7 +460,7 @@ st.markdown("""
     <div class="badge">
         📊 INDUSTRY BETA CALCULATOR
     </div>
-    <h1 class="main-title">Cost of Capital Dashboard</h1>
+    <h1 class="main-title">Industry's Beta Dashboard</h1>
     <p class="description">
         Calculate industry-specific beta coefficients and capital structure metrics across global markets
     </p>
